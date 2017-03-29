@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Nomoji: No More Emojis",
-	"version": "0.1",
+	"version": "0.2",
 	"author": "Joel M",
 
 	"description": "Turns emojis into [no].",
